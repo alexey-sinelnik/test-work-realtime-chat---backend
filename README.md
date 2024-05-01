@@ -15,7 +15,7 @@ $ npm install
 $ npm run dev
 
 
-o start working with the application, create a .env file at the root of the project, then add local variables 
+To start working with the application, create a .env file at the root of the project, then add local variables 
 following the example provided in the .env-example file. After that, install dependencies by running the 
 command npm run install. Finally, the last step is to run the project using the command npm run dev.
 
